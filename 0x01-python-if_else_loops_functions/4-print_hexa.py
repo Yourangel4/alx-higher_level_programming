@@ -1,4 +1,4 @@
-#!/usr/bin/python3<F3>
+#!/usr/bin/python3
 # Author -Moyinoluwa oluyeye
 
 """Print numbers 0 to 98 in decimal and hexadecimal."""
